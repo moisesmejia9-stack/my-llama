@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Models
+*.gguf
+models/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Logs
+*.log
+
+# OS
+.DS_Store
