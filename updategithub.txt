@@ -1,0 +1,8 @@
+
+
+
+git status
+git add .
+git commit -m "Add EBS CSI driver, IRSA, and gp3 storage class configuration"
+git push origin main
+git branch

@@ -19,5 +19,5 @@ spec:
       protocol: TCP
       targetPort: 5000
   loadBalancerSourceRanges:
-    - 8.29.230.8/32
+    - 8.29.230.89/32
     - 16.59.37.201/32
